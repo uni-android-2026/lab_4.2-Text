@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Text</string>
+    <string name="long_text">
+        <b>Травка</b> зеленеет,\n
+        <i>Солнышко</i> блестит;\n
+        <u>Ласточка</u> с весною\n
+        В сени к нам летит.
+    </string>
+</resources>
