@@ -1,4 +1,4 @@
-package su.ioplock.text;
+package org.michael.text;
 
 import org.junit.Test;
 

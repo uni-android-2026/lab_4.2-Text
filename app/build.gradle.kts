@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "su.ioplock.text"
+    namespace = "org.michael.text"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "su.ioplock.text"
+        applicationId = "org.michael.text"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
